@@ -1,0 +1,12 @@
+{
+  "name": "IG-Common-GeoTags",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.14.0",
+    "axios": "^1.7.2",
+    "google-spreadsheet": "^4.1.2",
+    "typescript": "^5.4.5"
+  }
+}
